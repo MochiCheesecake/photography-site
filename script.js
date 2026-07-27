@@ -12,15 +12,15 @@
 
 const PHOTOS = {
   animals: [
-    { src: "images/03-white-tiger.jpg",        subject: "White Bengal Tiger",   place: "[where?]", date: "[when?]", wide: true },
-    { src: "images/06-arctic-wolf-pups.jpg",   subject: "Arctic Wolf Pups",     place: "[where?]", date: "[when?]" },
-    { src: "images/04-serval.jpg",             subject: "[Serval?]",            place: "[where?]", date: "[when?]" },
-    { src: "images/02-white-rhinos.jpg",       subject: "[White Rhinoceros]",   place: "[where?]", date: "[when?]", wide: true },
-    { src: "images/08-humboldt-penguin.jpg",   subject: "[Humboldt Penguin?]",  place: "[where?]", date: "[when?]" },
-    { src: "images/01-sulcata-tortoise.jpg",   subject: "[Sulcata Tortoise?]",  place: "[where?]", date: "[when?]" },
-    { src: "images/07-tiger-in-foliage.jpg",   subject: "Tiger, through leaves",place: "[where?]", date: "[when?]" },
-    { src: "images/05-pygmy-goats.jpg",        subject: "[Pygmy Goats?]",       place: "[where?]", date: "[when?]" },
-    { src: "images/09-humpback-whale.jpg",     subject: "[Humpback Whale]",     place: "[where?]", date: "[when?]", wide: true },
+    { src: "images/03-white-tiger.jpg",        subject: "White Bengal Tiger", wide: true },
+    { src: "images/06-arctic-wolf-pups.jpg",   subject: "Arctic Wolf Pups" },
+    { src: "images/04-serval.jpg",             subject: "Serval"},
+    { src: "images/02-white-rhinos.jpg",       subject: "White Rhinoceros", wide: true },
+    { src: "images/08-humboldt-penguin.jpg",   subject: "Humboldt Penguin"},
+    { src: "images/01-sulcata-tortoise.jpg",   subject: "Sulcata Tortoise" },
+    { src: "images/07-tiger-in-foliage.jpg",   subject: "Tiger, through leaves" },
+    { src: "images/05-pygmy-goats.jpg",        subject: "Pygmy Goats"},
+    { src: "images/09-humpback-whale.jpg",     subject: "Humpback Whale", wide: true },
   ],
 
   // Nothing here yet. Add photos to these lists and then un-hide the
